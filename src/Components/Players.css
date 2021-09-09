@@ -1,0 +1,45 @@
+.carousel {
+    width: 100%;
+    height: 100%;
+    margin: 0 auto;
+    background-color: blue;
+    padding: 0 ;
+}
+
+.carousel-item {
+    background-color: aliceblue;
+    height: 50vh;
+}
+
+
+img {
+    width: 50%;
+    height: 50vh;
+    margin: 0 40px 0 0;
+    float: left;
+}
+
+.carousel-control-prev-icon {
+    
+    color: rgb(255, 255, 255);
+}
+
+.carousel-control-next-icon {
+    
+    color: rgb(19, 1, 1);
+}
+
+h4{
+    padding: 0 0 10px 0;
+}
+
+.omain{
+    width: 100%;
+    background-color: aliceblue;
+    margin: 0 auto;
+    text-align: center;
+    text-decoration: solid;
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 100px;
+    
+}
